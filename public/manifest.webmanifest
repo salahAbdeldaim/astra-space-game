@@ -1,0 +1,17 @@
+{
+  "name": "Astra: The Red Balance",
+  "short_name": "Astra",
+  "description": "NASA Martian Colony Strategy Game",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05070f",
+  "theme_color": "#c25e36",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
